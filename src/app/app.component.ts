@@ -12,6 +12,7 @@ export class AppComponent {
   array= [1,2,3,4,5,6,7,8,9,10];
   pi= Math.PI;
   porcentaje= 0.643;
+  url='https://www.youtube.com/embed/Lcr7Qm9AvOQ';
   salario= 123456789.142;
   fecha= new Date();
   idioma='es';
